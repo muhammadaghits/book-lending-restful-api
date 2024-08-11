@@ -1,4 +1,4 @@
-# book-lending-restful_api
+# book-lending-restful-api
 [![Generic badge](https://img.shields.io/badge/npm-9.8.1-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/node-v18.18.2-green.svg)](https://shields.io/)
 
 ## Table of contents
